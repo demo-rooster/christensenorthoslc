@@ -1,77 +1,62 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Christensen Orthodontics",
+  "domain": "christensenorthoslc.com",
+  "email": "info@christensenorthoslc.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "801-446-5548",
+    "href": "tel:+18014465548",
+    "aria": "8 0 1, 4 4 6, 5 5 4 8"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "10393 South 1300 West",
+        "suite": "Suite 100",
+        "city_state": "South Jordan, UT 84095",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "801-446-5548",
+        "href": "tel:+18014465548"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@christensenorthoslc.com",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "9:00 a.m. - 5:00 p.m."
         },
         {
           "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "9:00 a.m. - 5:00 p.m."
         },
         {
           "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "time": "9:00 a.m. - 5:00 p.m."
         },
         {
           "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "time": "9:00 a.m. - 5:00 p.m."
         },
         {
           "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "time": "9:00 a.m. - 1:00 p.m."
+        },
+        {
+          "day": "Saturday",
+          "time": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=10393+South+1300+West+Suite+100+South+Jordan+UT+84095",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -95,27 +80,27 @@
     "links": [
       {
         "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "text": "10393 South 1300 West Suite 100, South Jordan, UT 84095",
+        "href": "https://www.google.com/maps/search/?api=1&query=10393+South+1300+West+Suite+100+South+Jordan+UT+84095",
+        "label": "View 10393 South 1300 West Suite 100, South Jordan, UT 84095 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "801-446-5548",
+        "href": "tel:+18014465548",
+        "label": "Call 8 0 1. 4 4 6. 5 5 4 8.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Patient safety and comfort",
+      "text": "Christensen Orthodontics prioritizes patient comfort and modern, evidence-based care. Call our office to learn about current safety protocols and appointment options.",
+      "mobile_text": "Patient safety & comfort",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Patient Safety & Comfort",
+        "text": "Our team uses modern orthodontic technology and follows recommended safety practices to make your visit efficient and comfortable. Call 801-446-5548 with questions or to schedule."
       }
     }
   },
@@ -150,20 +135,24 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/people/Christensen-Orthodontics-SLC/61564893214698/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/christensen.ortho/",
+        "icon": "instagram"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Christensen Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.christensenorthoslc.com/wp-content/themes/charlie-child/images/footer-logo.svg",
       "webp": "",
-      "alt": "",
+      "alt": "Christensen Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
